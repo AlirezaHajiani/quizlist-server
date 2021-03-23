@@ -1,4 +1,4 @@
-const SECRET = 'mysecret';
+const SECRET = '';
 
 module.exports = {
   SECRET
