@@ -5,10 +5,10 @@ const crypto = require('crypto');
 const algorithm = 'aes-256-cbc';
 
 // Defining key
-const key = 'jWnZr4u7x!A%D*G-';
+const key = '';
 
 // Defining iv
-const iv = '2s5v8y/B?E(H+MbQ';
+const iv = '';
 
 
 const {ADD_SCORE_VALUE,ADD_COIN_VALUE,ADD_COIN_VALUE_EQUAL} = require('../config/gameConst.js');
